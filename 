@@ -1,0 +1,47 @@
+[33mcommit afba2dcfe417dddbedba1629ecc45af867594bcf[m[33m ([m[1;36mHEAD -> [m[1;32mnewBranch[m[33m, [m[1;31morigin/newBranch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: prashantwitty <prashantwitty@gmail.com>
+Date:   Sat Oct 22 13:22:31 2022 +0530
+
+    adding new branch
+
+[33mcommit b3edd36d869a746c45429f7fdd31dac113605cc9[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: prashantwitty <prashantwitty@gmail.com>
+Date:   Sat Oct 22 13:10:28 2022 +0530
+
+    added second.txt
+
+[33mcommit 7948dfd08ef6dcbf7b522a3a4d745a3428908966[m
+Author: prashantwitty <prashantwitty@gmail.com>
+Date:   Sat Oct 22 13:08:26 2022 +0530
+
+    added first.txt
+
+[33mcommit af0ef7b1be054279d4fa8e871a8e6416c438d5e5[m
+Author: Prashant Jha <27519554+prashant-jha@users.noreply.github.com>
+Date:   Tue Jun 4 23:10:00 2019 +0530
+
+    second commit
+
+[33mcommit 11ebc6f029732ee7b50fb78ef50600f8b5247591[m
+Author: Prashant Jha <27519554+prashant-jha@users.noreply.github.com>
+Date:   Tue Jun 4 23:03:40 2019 +0530
+
+    Added py
+
+[33mcommit d65c8fa5f6c5a0d375aedbac4a1758e8c2f1975e[m
+Author: Prashant Jha <27519554+prashant-jha@users.noreply.github.com>
+Date:   Tue Jun 4 22:57:48 2019 +0530
+
+    second commit
+
+[33mcommit ce332e0802ffd02c0a2d5ffd96f11ac61cf96a5a[m
+Author: Prashant Jha <itsjhaprashant@gmail.com>
+Date:   Tue Jun 4 22:30:38 2019 +0530
+
+    added test.html
+
+[33mcommit 54533b4aa9ac8c05eef72e6e841f62fb8de9fa27[m
+Author: Prashant Jha <27519554+prashant-jha@users.noreply.github.com>
+Date:   Tue Jun 4 16:46:36 2019 +0530
+
+    Initial commit
